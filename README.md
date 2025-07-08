@@ -1,1 +1,1 @@
-# Markov-Chain-Models
+# Hidden-Markov-Models
