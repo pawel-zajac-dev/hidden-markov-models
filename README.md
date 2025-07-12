@@ -1,2 +1,9 @@
 # Hidden-Markov-Models
-Discrete stochastic processes (e.g., DTMCs, HMMs, Gaussian HMMs, second-order HMMs, etc.)
+- **SEO and Bounce Rate Optimization**
+  Applying Markov models to analyze user navigation behavior on websites. Helps estimate bounce probabilities and optimize user flow.
+
+- **2nd-Order Language Model**
+  Building and training a second-order Markov model to generate realistic phrases. Demonstrates how state memory enhances text generation.
+
+- **Google’s PageRank Algorithm**
+  Implementation of the classic PageRank algorithm using Markov chains to rank webpages based on link structure.
